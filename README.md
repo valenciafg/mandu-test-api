@@ -12,3 +12,7 @@ Api de conexion con BD de divisiones bajo MySQL
 
 ## Ejecutar en local
 ### `php artisan serve`
+
+
+## Coleccion de pruebas con POSTMAN
+[https://drive.google.com/file/d/1m-ib3DXOOhsvovkSJs2jJ-5WP5VQAini/view?usp=sharing](https://drive.google.com/file/d/1m-ib3DXOOhsvovkSJs2jJ-5WP5VQAini/view?usp=sharing)
